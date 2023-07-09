@@ -15,9 +15,9 @@ This kind of photophysics is suspected to occur in interstellar and circumstella
 This code has been the starting point for various simulations which leaded to three research publications related to the recurrent fluorescence
 of carbon clusters in the interstellar medium context. 
 These publications are listed below:
-O. Lacinbala et al, J. Chem. Phys, 156, 144305 (2022) https://doi.org/10.1063/5.0080494
-O. Lacinbala et al, Astron. Astrophys., 671, A86 (2023) https://doi.org/10.1051/0004-6361/202245421 
-O. Lacinbala et al, Phys. Rev. A, 107, 062808 (2023) https://doi.org/10.1103/PhysRevA.107.062808
+O. Lacinbala et al, J. Chem. Phys, 156, 144305 (2022) <https://doi.org/10.1063/5.0080494>
+O. Lacinbala et al, Astron. Astrophys., 671, A86 (2023) <https://doi.org/10.1051/0004-6361/202245421>
+O. Lacinbala et al, Phys. Rev. A, 107, 062808 (2023) <https://doi.org/10.1103/PhysRevA.107.062808>
 
 The simulation is performed by using a kinetic Monte Carlo method. The radiative cooling takes place via vibrational emission and recurrent fluorescence.
 
