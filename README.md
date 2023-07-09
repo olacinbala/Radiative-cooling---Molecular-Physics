@@ -33,4 +33,18 @@ occupation probability of vibronic states. Then, the vibrational emission and re
 
 Once all rates are computed at each internal energy and the initial vibrational energy of the molecule is defined, the kinetic Monte Carlo simulation is run to simulate the radiative cascade.
 
-# Method
+# Output files
+
+Several output files are generated at the end of this simulation.
+
+decroissance_E.txt: Temporal evolution of the internal energy
+
+emissionIR_niveaux_elec.txt: time- and internal energy-dependence of total emitted photon from all vibrational modes for each electronic states.
+
+emissionIR_par_modes.txt: time- and internal energy-dependence of emitted photon from each vibrational normal modes of the ground electronic states.
+
+emissionIR_par_modes_global.txt: total emitted photon from each vibrational normal modes resulting from the radiative relaxation.
+
+emissionUV.txt: time- and internal energy-dependence of total emitted photon via recurrent fluorescence from each electronic states.
+
+spectreUV.txt: Total emitted photon number via recurrent fluorescence from each electronic states.
