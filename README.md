@@ -1,4 +1,4 @@
-# Radiative cooling - Molecular Physics
+# Radiative cooling (Molecular Physics)
 
 
 # About the simulation
